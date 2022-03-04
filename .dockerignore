@@ -1,0 +1,8 @@
+.idea
+node_modules
+npm-debug.log
+Jenkinsfile
+*.txt
+cleanup.bat
+deploy.bat
+*.yml
